@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <!-- <h1 align="center">Welcome to my Github Profile</h1> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parshva555&label=Profile%20views&color=0e75b6&style=flat" alt="parshva555" /> </p>
+
 
 - 🔭 I’m currently working on **a Social Media App**
 
