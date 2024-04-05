@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **a Blog App**
+- 🔭 I’m currently working on **a Booking App**
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **MERN**
 
