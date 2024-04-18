@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **a Booking App**
+- 🔭 I’m currently working on **a Web Booking App**
 
 - 🌱 I’m currently learning **React Native**
 
