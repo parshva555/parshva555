@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **a Web Booking App**
+- 🔭 I’m currently working on **Tours and Travels App**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **MERN**
 
